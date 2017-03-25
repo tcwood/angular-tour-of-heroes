@@ -1,5 +1,7 @@
 node_modules/
 *.swp
+*.js
+*.map
 
 ## Mac OSX ##
 .DS_Store
