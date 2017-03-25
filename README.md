@@ -3,7 +3,7 @@ https://angular.io/docs/ts/latest/tutorial/
 
 ## Getting Started
 
-Make sure you have node is installed
+Make sure you have node installed
 
 1. Clone this repo
     1. git clone https://github.com/tcwood/angular-tour-of-heroes.git
