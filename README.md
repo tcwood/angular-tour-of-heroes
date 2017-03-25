@@ -1,4 +1,5 @@
 # Angular2 and Typescript tutorial
+https://angular.io/docs/ts/latest/tutorial/
 
 ## Getting Started
 
