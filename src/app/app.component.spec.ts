@@ -12,7 +12,7 @@ describe('AppComponent', function () {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
       declarations: [ AppComponent ],
-      schemas: [ CUSTOM_ELEMENTS_SCHEMA ]   // This is needed b/c  of <router-outler> 
+      schemas: [ CUSTOM_ELEMENTS_SCHEMA ]   // This is needed b/c of <router-outler> 
     })
     .compileComponents()
     .catch((err) => {
